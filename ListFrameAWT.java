@@ -1,4 +1,5 @@
-/*import java.awt.Button;
+//WAP to create Registration Form.
+import java.awt.Button;
 import java.awt.Frame;
 import java.awt.Label;
 import java.awt.TextField;
@@ -50,8 +51,9 @@ class GuiInterface {
         f.setSize(500, 300);
         f.setVisible(true);
     }
-}*/
+}
 
+//WAP to create a List.
 import java.awt.Frame;
 import java.awt.List;
 public class ListFrameAWT extends Frame 
